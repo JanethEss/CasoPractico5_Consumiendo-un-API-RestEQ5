@@ -1,0 +1,13 @@
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_RyM\bin\Debug\API_RyM.exe.config
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_RyM\bin\Debug\API_RyM.exe
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_RyM\bin\Debug\API_RyM.pdb
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_RyM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_RyM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_RyM\obj\Debug\API_RyM.csprojAssemblyReference.cache
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_RyM\obj\Debug\API_RyM.Properties.Resources.resources
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_RyM\obj\Debug\API_RyM.csproj.GenerateResource.cache
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_RyM\obj\Debug\API_RyM.csproj.CoreCompileInputs.cache
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_RyM\obj\Debug\API_RyM.csproj.CopyComplete
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_RyM\obj\Debug\API_RyM.exe
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_RyM\obj\Debug\API_RyM.pdb
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_RyM\obj\Debug\API_RyM.API1.resources

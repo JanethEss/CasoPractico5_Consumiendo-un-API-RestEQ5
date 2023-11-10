@@ -1,0 +1,13 @@
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_GobMX\bin\Debug\API_GobMX.exe.config
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_GobMX\bin\Debug\API_GobMX.exe
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_GobMX\bin\Debug\API_GobMX.pdb
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_GobMX\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_GobMX\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_GobMX\obj\Debug\API_GobMX.csprojAssemblyReference.cache
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_GobMX\obj\Debug\API_GobMX.API2.resources
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_GobMX\obj\Debug\API_GobMX.Properties.Resources.resources
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_GobMX\obj\Debug\API_GobMX.csproj.GenerateResource.cache
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_GobMX\obj\Debug\API_GobMX.csproj.CoreCompileInputs.cache
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_GobMX\obj\Debug\API_GobMX.csproj.CopyComplete
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_GobMX\obj\Debug\API_GobMX.exe
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_GobMX\obj\Debug\API_GobMX.pdb

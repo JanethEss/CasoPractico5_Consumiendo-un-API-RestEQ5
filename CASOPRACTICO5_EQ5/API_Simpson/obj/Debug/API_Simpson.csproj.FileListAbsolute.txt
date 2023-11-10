@@ -1,0 +1,13 @@
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_Simpson\bin\Debug\API_Simpson.exe.config
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_Simpson\bin\Debug\API_Simpson.exe
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_Simpson\bin\Debug\API_Simpson.pdb
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_Simpson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_Simpson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_Simpson\obj\Debug\API_Simpson.csprojAssemblyReference.cache
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_Simpson\obj\Debug\API_Simpson.Properties.Resources.resources
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_Simpson\obj\Debug\API_Simpson.API3.resources
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_Simpson\obj\Debug\API_Simpson.csproj.GenerateResource.cache
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_Simpson\obj\Debug\API_Simpson.csproj.CoreCompileInputs.cache
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_Simpson\obj\Debug\API_Simpson.csproj.CopyComplete
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_Simpson\obj\Debug\API_Simpson.exe
+C:\Users\Janeth\source\repos\CASOPRACTICO5_EQ5\API_Simpson\obj\Debug\API_Simpson.pdb
